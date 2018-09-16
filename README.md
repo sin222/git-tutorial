@@ -20,4 +20,9 @@ git log --decorate=full --oneline --grah
 '''bash
 git checkout -b readme
 '''
+
+## 머지하기
+'''bash
+git merge readme --no-ff
+'''
 >>>>>>> readme
