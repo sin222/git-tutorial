@@ -25,4 +25,8 @@ git checkout -b readme
 '''bash
 git merge readme --no-ff
 '''
+
+# LICENSE
+이 저장소는 WTFPL 라이선스에 의해 보호를 받습니다.
+
 >>>>>>> readme
